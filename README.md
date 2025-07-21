@@ -85,3 +85,7 @@ Healthcare, Finance, and Retail Industries
 In healthcare, such pipelines clean patient data before predictive analysis.
 
 In finance, they preprocess financial transaction data for fraud detection
+
+#OUTPUT:
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c892bf60-597e-45ae-98d1-398e6d6555de" />
