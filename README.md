@@ -87,4 +87,4 @@ In healthcare, such pipelines clean patient data before predictive analysis.
 In finance, they preprocess financial transaction data for fraud detection
 
 #OUTPUT:
-
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a4ba8b33-38a8-45fb-beb5-893b5444eedb" />
