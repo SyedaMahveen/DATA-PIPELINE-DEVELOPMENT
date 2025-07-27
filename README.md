@@ -1,5 +1,7 @@
 # DATA-PIPELINE-DEVELOPMENT
 
+This project implements a simple ETL data pipeline using the Iris dataset. It extracts raw data, cleans missing values, applies scaling, and saves both raw and cleaned data as CSV files
+
 *COMPANY*:CODETECH IT SOLUTIONS
 
 *NAME*:MAHVEEN SULTANA
